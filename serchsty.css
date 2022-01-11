@@ -1,0 +1,26 @@
+body {
+	align-items: center;
+	justify-content: center;
+	background-image: linear-gradient(to left top, #90007e, #8a0089, #800096, #7200a3, #5c00b1);
+	padding: 168px;
+}
+
+.up-text {
+	color: black;
+	margin-left: 50px;
+	font-family: monospace;
+}
+
+.down-text {
+	color: black;
+	margin-left: 65px;
+	font-family: monospace;
+}
+
+.search-box input {
+	background: transparent;
+	
+	box-shadow: white;
+	border-radius: 10em;
+	color: white;
+}
